@@ -1,0 +1,5 @@
+[
+	{"name":"Armen","surName":"Sargsyan","age":"20","gender":"mail","email":"armen@gmail.com","country":"Armenia","city":"Vanadzor","street":"Baghramyan"}
+	,{"name":"John","surName":"Smith","age":"25","gender":"mail","email":"john@gmail.com","country":"Usa","city":"Washington","street":"goodstreet"},
+	{"name":"Ivan","surName":"Ivanov","age":"30","gender":"mail","email":"ivan@gmail.com","country":"Russia","city":"Moscow","street":"Pervamayskiy"}
+]
